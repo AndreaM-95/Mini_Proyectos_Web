@@ -4,7 +4,7 @@
 <br>
 <h2>Certificación diseño web Responsivo</h2>
 <p>En esta sección se encontrarán todos los ejercicios prácticos que realicé en mi trayectoria de estudio. Encontrarán los proyectos:</p>
-<li>Por definir</li>
+<li>Accesibilidad_Cuestionario</li>
 <p>Estos proyectos se trabajaron con:</p>
 <li>HTML5</li>
 <li>CSS</li>
